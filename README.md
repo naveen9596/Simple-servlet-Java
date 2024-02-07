@@ -1,1 +1,2 @@
-# Simple-servlet-Java
+# AWSCodeDeploy
+Sample Java Web project for AWS Code deploy
